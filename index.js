@@ -9,7 +9,7 @@ document.addEventListener('DOMContentLoaded', function() {
         "EldikMobail",
         "Икрам",
         "joni",
-        "Имя сотрудника 8",
+        "Aman",
         "Имя сотрудника 9",
         "Имя сотрудника 10",
         "Имя сотрудника 11"
